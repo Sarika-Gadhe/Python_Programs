@@ -1,16 +1,16 @@
-# # Python Programs
---
+## Python Programs
 
- - <b>A collection of Python programs covering basic to advanced concepts.</b>
+----
+ - A collection of Python programs covering basic to advanced concepts.
   
 ---
 
 
 ## 📝 Overview
 
-The **Python_Programs** repository contains a variety of Python scripts for learning and practicing Python programming.  
-It includes programs on **Linked Lists, Arithmetic, Command Line operations, Data Types, Exceptions, Functions, I/O, Lambda, List operations, and more**.  
-Each script is **self-contained**, ready to run, and designed for **students, beginners, and programming practice**.
+- The **Python_Programs** repository contains a variety of Python scripts for learning and practicing Python programming.  
+- It includes programs on **Linked Lists, Arithmetic, Command Line operations, Data Types, Exceptions, Functions, I/O, Lambda, List operations, and more**.  
+ - Each script is **self-contained**, ready to run, and designed for **students, beginners, and programming practice**.
 
 ---
 
